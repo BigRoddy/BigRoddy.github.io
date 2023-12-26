@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Di Luo"
-description              : "Di Luo's personal homepage. "
+description              : "I don't know where to go, but I have been on the road."
 repository               : "BigRoddy/BigRoddy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Di Luo (罗迪)"
   avatar           : "images/personal.png"
-  bio              : "M.S. Student at Gaoling school of Artificial Intelligence, Renmin University of China"
+  bio              : "M.S. Student at Gaoling School of Artificial Intelligence, Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
