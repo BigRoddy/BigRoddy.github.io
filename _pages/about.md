@@ -19,8 +19,6 @@ redirect_from:
 
 I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University of China, under the supervision of Prof. Rui Yan. I am currently interested in Quantitative Finance and NLP, specifically in portfolio selection, stock movement prediction and text mining. If you are also interested in these areas, feel free to contact me at di_luo@ruc.edu.cn.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F_BGA7ktk4unk2uiyqtI0qloYGr0LyfEedaYJHY71CI&cl=ffffff&w=a"></script>
-
 
 {% # 📝 Publications %}
 {% <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> %}
@@ -44,3 +42,5 @@ I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University
 
 {% # 💻 Internships %}
 {% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. %}
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=F_BGA7ktk4unk2uiyqtI0qloYGr0LyfEedaYJHY71CI&cl=ffffff&w=a"></script>
