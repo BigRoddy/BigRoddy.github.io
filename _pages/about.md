@@ -13,12 +13,19 @@ redirect_from:
 I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University of China, under the supervision of Prof. Rui Yan. I am currently interested in Quantitative Finance and NLP, specifically in portfolio selection, stock movement prediction and text mining. If you are also interested in these areas, feel free to contact me at di_luo@ruc.edu.cn.
 
 # 📝 Publications
+
+## 📈 Quantitative Finance
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Causality-Guided Multi-Memory Interaction Network for Multivariate Stock Price Movement Prediction](https://aclanthology.org/2023.acl-long.679/) \\
 **Di Luo**, Weiheng Liao, Shuqi Li, Xin Cheng, Rui Yan
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023 Poster</div><img src='images/WWW23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Lower Risks, Better Choices: Stock Correlation Based Portfolio Selection in Stock Markets](https://dl.acm.org/doi/abs/10.1145/3543873.3587298) \\
+**Di Luo**, Weiheng Liao, Rui Yan
 </div>
 </div>
 
