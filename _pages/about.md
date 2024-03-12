@@ -40,7 +40,7 @@ Yingpeng Du, **Di Luo**, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/selfmem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory](https://proceedings.neurips.cc/paper_files/paper/2023/hash/887262aeb3eafb01ef0fd0e3a87a8831-Abstract-Conference.html) \\
-Xin Cheng^\*, **Di Luo**^\*, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan
+Xin Cheng\*, **Di Luo**\*, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan
 </div>
 </div>
 
