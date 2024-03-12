@@ -33,14 +33,14 @@ I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing Job Recommendation through LLM-based Generative Adversarial Networks](https://arxiv.org/abs/2307.10747) \\
-Yingpeng Du$^*$, **Di Luo**$^*$, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song, Jie Zhang
+Yingpeng Du, **Di Luo**, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song, Jie Zhang
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/selfmem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Lift Yourself Up: Retrieval-augmented Text Generation with Self-Memory](https://proceedings.neurips.cc/paper_files/paper/2023/hash/887262aeb3eafb01ef0fd0e3a87a8831-Abstract-Conference.html) \\
-Xin Cheng, **Di Luo**, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan
+Xin Cheng^*, **Di Luo**^*, Xiuying Chen, Lemao Liu, Dongyan Zhao, Rui Yan
 </div>
 </div>
 
