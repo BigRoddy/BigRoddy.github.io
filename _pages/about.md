@@ -32,7 +32,7 @@ I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University
 ## 🤖 Large Language Models
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Job Recommendation through LLM-based Generative Adversarial Networks](https://arxiv.org/abs/2307.10747) \\
+[Enhancing Job Recommendation through LLM-based Generative Adversarial Networks]([https://arxiv.org/abs/2307.10747](https://ojs.aaai.org/index.php/AAAI/article/view/28678)) \\
 Yingpeng Du\*, **Di Luo**\*, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song, Jie Zhang
 </div>
 </div>
