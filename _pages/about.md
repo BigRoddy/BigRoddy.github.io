@@ -15,6 +15,13 @@ I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University
 # 📝 Publications
 
 ## 📈 Quantitative Finance
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/TKDE25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[MagicNet: Memory-Aware Graph Interactive Causal Network for Multivariate Stock Price Movement Prediction](https://ieeexplore.ieee.org/document/10834555) \\
+**Di Luo**, Shuqi Li, Weiheng Liao, Rui Yan
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/ACL23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Causality-Guided Multi-Memory Interaction Network for Multivariate Stock Price Movement Prediction](https://aclanthology.org/2023.acl-long.679/) \\
@@ -32,7 +39,7 @@ I'm a M.S student at Gaoling School of Artifical Intelligence, Renmin University
 ## 🤖 Large Language Models
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/LGIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Enhancing Job Recommendation through LLM-based Generative Adversarial Networks]([https://arxiv.org/abs/2307.10747](https://ojs.aaai.org/index.php/AAAI/article/view/28678)) \\
+[Enhancing Job Recommendation through LLM-based Generative Adversarial Networks](https://ojs.aaai.org/index.php/AAAI/article/view/28678) \\
 Yingpeng Du\*, **Di Luo**\*, Rui Yan, Xiaopei Wang, Hongzhi Liu, Hengshu Zhu, Yang Song, Jie Zhang
 </div>
 </div>
